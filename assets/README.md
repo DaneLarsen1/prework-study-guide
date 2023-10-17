@@ -1,6 +1,8 @@
 # <Danes-Prework-Study-Guide>
 
-## Description "This Project was a great test over my mental stength and my commitment to this class. Ive learned many things over the course of this project. These include HTML, CSS, Git, and JavaScript. My motivation was mainly brought up by the fact that I have a late start compared to the rest of my class which makes me have to work extra hard to get things like this done."
+## Description 
+
+This Project was a great test over my mental stength and my commitment to this class. Ive learned many things over the course of this project. These include HTML, CSS, Git, and JavaScript. My motivation was mainly brought up by the fact that I have a late start compared to the rest of my class which makes me have to work extra hard to get things like this done.
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
@@ -16,16 +18,22 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [License](#license)
 
-## Installation N/A
+## Installation 
+
+N/A
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
-## Usage "This guide can be used in many ways. Not only can the eye of the average viewer learn from my website and my notes provided but the eyes of coders on many levels can learn wonders from it aswell. If you want or need more informationbn about this project all you have to do is inspect the page and you can see not one not two but three coding languages. These include HTML, CSS, and JavaScript. These neatly stored notes will give each reader the means to progress in there coding carreers."
+## Usage 
+
+This guide can be used in many ways. Not only can the eye of the average viewer learn from my website and my notes provided but the eyes of coders on many levels can learn wonders from it aswell. If you want or need more informationbn about this project all you have to do is inspect the page and you can see not one not two but three coding languages. These include HTML, CSS, and JavaScript. These neatly stored notes will give each reader the means to progress in there coding carreers.
 
 Provide instructions and examples for use. Include screenshots as needed.
 
 
-## Credits N/A
+## Credits 
+
+N/A
 
 List your collaborators, if any, with links to their GitHub profiles.
 
@@ -33,7 +41,9 @@ If you used any third-party assets that require attribution, list the creators w
 
 If you followed tutorials, include links to those here as well.
 
-## License MIT
+## License 
+
+MIT License
 
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
